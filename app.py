@@ -61,6 +61,6 @@ def predict():
     else:
       return render_template('index.html', prediction_text='The Gender is Male', extra_text =" -- Prediction by " + model)
 
-app.run()
+
 if __name__ == "__main__":
      app.run(debug=True)
