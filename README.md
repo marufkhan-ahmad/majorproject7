@@ -1,1 +1,1 @@
-# project_7_minor_churn_modelling
+# project_7_major_gender_classification
